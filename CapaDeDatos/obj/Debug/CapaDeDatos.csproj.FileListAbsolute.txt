@@ -1,0 +1,17 @@
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.dll
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\henao\OneDrive\Escritorio\Universidad\Herramientas3\ProyectoCapas\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\henao\OneDrive\Escritorio\Universidad\Herramientas3\ProyectoCapas\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\henao\OneDrive\Escritorio\Universidad\Herramientas3\ProyectoCapas\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\henao\OneDrive\Escritorio\Universidad\Herramientas3\ProyectoCapas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\henao\OneDrive\Escritorio\Universidad\Herramientas3\ProyectoCapas\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\henao\OneDrive\Escritorio\Universidad\Herramientas3\ProyectoCapas\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
